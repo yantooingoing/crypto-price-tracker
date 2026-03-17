@@ -1,2 +1,3 @@
-# crypto-price-tracker
-Simple crypto price tracker using CoinGecko API
+# Crypto Price Tracker
+
+Work in progress — fetching real-time crypto prices using CoinGecko API.
